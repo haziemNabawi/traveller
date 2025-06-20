@@ -2,12 +2,18 @@ Aplikasi Travel Antar Kota
 
 Fitur Lainnya Menyusul :D
 
+
+
 traveller_app -> untuk mobile only tetapi bisa dikembangkan untuk ke web (sudah ada api)
 
 
 traveller_web -> web only
 
+
+
+
 *Kelompok-5-ABP-IF-46-10*
+
 
 Efhram Lazuardi Vidya agus - 1301220346
 
